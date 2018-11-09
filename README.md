@@ -10,3 +10,5 @@ master branch: [![Build Status](https://travis-ci.org/ros-planning/random_number
 
 New: you can pass in a custom random number generator seed to allow optional deterministic behavior during debugging, testing, etc. using the secondary constructor.
 
+
+A trivial change
